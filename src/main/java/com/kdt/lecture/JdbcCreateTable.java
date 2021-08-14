@@ -2,7 +2,7 @@ package com.kdt.lecture;
 
 import java.sql.*;
 
-public class JdbcRepository {
+public class JdbcCreateTable {
 
     // JDBC driver name and database URL
     static final String JDBC_DRIVER = "org.h2.Driver";
